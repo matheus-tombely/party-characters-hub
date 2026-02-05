@@ -13,7 +13,7 @@ export function Footer() {
               Personagens Vivos
             </Link>
             <p className="text-sm text-muted-foreground">
-              Transformando festas infantis em contos de fadas mágicos em Porto Alegre e Região Metropolitana.
+              Transformando festas infantis em contos de fadas mágicos.
             </p>
           </div>
 
@@ -51,8 +51,8 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Instagram className="h-4 w-4 text-primary" />
-                <a href="https://instagram.com/personagensvivosPOA" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                  @personagensvivosPOA
+                <a href="https://instagram.com/estelarpersonagens" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                  @estelarpersonagens
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -78,10 +78,10 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-            Feito com <Heart className="h-4 w-4 text-primary fill-primary" /> para encantar crianças
+            Feito com <Heart className="h-4 w-4 text-primary fill-primary" /> para encantar
           </p>
           <p className="text-xs text-muted-foreground mt-2">
-            © {new Date().getFullYear()} Personagens Vivos Porto Alegre. Todos os direitos reservados.
+            © {new Date().getFullYear()} Estelar Personagens. Todos os direitos reservados.
           </p>
         </div>
       </div>

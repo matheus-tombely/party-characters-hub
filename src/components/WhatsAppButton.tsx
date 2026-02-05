@@ -13,7 +13,7 @@ export function WhatsAppButton() {
 
   return (
     <a
-      href="https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para festa infantil em Porto Alegre"
+      href="https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para um evento"
       target="_blank"
       rel="noopener noreferrer"
       onClick={handleClick}

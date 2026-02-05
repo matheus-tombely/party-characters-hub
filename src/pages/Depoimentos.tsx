@@ -99,7 +99,7 @@ export default function Depoimentos() {
                 value: `${Math.round((testimonials.filter(t => t.rating >= 4).length / testimonials.length) * 100)}%`, 
                 label: 'Aprovação' 
               },
-              { value: '100+', label: 'Festas Realizadas' },
+              /*{ value: '100+', label: 'Festas Realizadas' },*/
             ].map((stat) => (
               <div 
                 key={stat.label} 

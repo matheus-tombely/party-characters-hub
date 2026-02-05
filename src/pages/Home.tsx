@@ -48,8 +48,8 @@ export default function Home() {
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
-              Transforme a festa do seu filho em um verdadeiro conto de fadas! 
-              Princesas, heróis e personagens mágicos para eventos inesquecíveis 
+              Transforme a sua festa em um verdadeiro conto de fadas! 
+              Princesas, heróis e personagens mágicos e recreação para eventos inesquecíveis 
               em Porto Alegre e Região Metropolitana.
             </p>
             
@@ -61,7 +61,7 @@ export default function Home() {
                 onClick={handleBudgetClick}
               >
                 <a 
-                  href="https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para festa infantil em Porto Alegre"
+                  href="https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para evento"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -272,7 +272,7 @@ export default function Home() {
               onClick={handleBudgetClick}
             >
               <a 
-                href="https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para festa infantil"
+                href="https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para evento"
                 target="_blank"
                 rel="noopener noreferrer"
               >

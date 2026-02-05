@@ -19,8 +19,8 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-serif text-xl font-bold text-primary">
           <Sparkles className="h-6 w-6 text-accent animate-sparkle" />
-          <span className="hidden sm:inline">Personagens Vivos</span>
-          <span className="sm:hidden">PV POA</span>
+          <span className="hidden sm:inline">Estelar Personagens </span>
+          <span className="sm:hidden">Estelar</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -40,7 +40,7 @@ export function Header() {
             </Link>
           ))}
           <Button asChild className="bg-gradient-magic shadow-magic hover:opacity-90 transition-opacity">
-            <a href="https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para festa infantil" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para evento" target="_blank" rel="noopener noreferrer">
               Solicitar Orçamento
             </a>
           </Button>
@@ -78,7 +78,7 @@ export function Header() {
               </Link>
             ))}
             <Button asChild className="bg-gradient-magic shadow-magic w-full">
-              <a href="https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para festa infantil" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para evento" target="_blank" rel="noopener noreferrer">
                 Solicitar Orçamento
               </a>
             </Button>

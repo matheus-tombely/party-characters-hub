@@ -32,7 +32,7 @@ export function SEO({
     "name": "Personagens Vivos Porto Alegre",
     "description": defaultDescription,
     "url": siteUrl,
-    "telephone": "+55-51-99999-9999",
+    "telephone": "+55-51-99185-1879",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Porto Alegre",
