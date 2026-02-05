@@ -45,8 +45,8 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
                 <MessageCircle className="h-4 w-4 text-primary" />
-                <a href="https://wa.me/5551999999999" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                  (51) 99999-9999
+                <a href="https://wa.me/5551991851879" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                  (51) 99185-1879
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -57,7 +57,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4 text-primary" />
-                contato@personagensvivos.com.br
+                contato@estelarpersonagens.com.br
               </li>
             </ul>
           </div>

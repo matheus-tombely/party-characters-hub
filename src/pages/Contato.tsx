@@ -28,7 +28,7 @@ export default function Contato() {
 *Data do Evento:* ${formData.dataEvento}
 *Mensagem:* ${formData.mensagem}`;
 
-    const whatsappUrl = `https://wa.me/5551999999999?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/5551991851879?text=${encodeURIComponent(message)}`;
     
     // Track event
     if (typeof window !== 'undefined' && (window as any).gtag) {
@@ -103,7 +103,7 @@ export default function Contato() {
                   id="telefone"
                   name="telefone"
                   type="tel"
-                  placeholder="(51) 99999-9999"
+                  placeholder="(51) 99185-1879"
                   required
                   value={formData.telefone}
                   onChange={handleChange}
@@ -157,7 +157,7 @@ export default function Contato() {
 
               <div className="space-y-6">
                 <a 
-                  href="https://wa.me/5551999999999"
+                  href="https://wa.me/5551991851879"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 rounded-xl bg-[#25D366]/10 hover:bg-[#25D366]/20 transition-colors"
@@ -167,7 +167,7 @@ export default function Contato() {
                   </div>
                   <div>
                     <p className="font-semibold text-foreground">WhatsApp</p>
-                    <p className="text-muted-foreground">(51) 99999-9999</p>
+                    <p className="text-muted-foreground">(51) 99185-1879</p>
                   </div>
                 </a>
 

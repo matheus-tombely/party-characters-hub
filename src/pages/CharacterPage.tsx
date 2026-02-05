@@ -174,7 +174,7 @@ export default function CharacterPage() {
               onClick={handleBudgetClick}
             >
               <a 
-                href={`https://wa.me/5551999999999?text=Olá! Gostaria de um orçamento para o personagem ${character.name} para minha festa infantil em Porto Alegre`}
+                href={`https://wa.me/5551991851879?text=Olá! Gostaria de um orçamento para o personagem ${character.name} para minha festa infantil em Porto Alegre`}
                 target="_blank"
                 rel="noopener noreferrer"
               >

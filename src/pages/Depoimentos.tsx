@@ -52,7 +52,7 @@ export default function Depoimentos() {
           
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
             Confira os depoimentos de famílias que realizaram festas mágicas 
-            com nossos personagens vivos em Porto Alegre e Região Metropolitana.
+            com a equipe Estelar
           </p>
         </div>
 

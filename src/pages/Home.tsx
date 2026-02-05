@@ -43,8 +43,8 @@ export default function Home() {
             </div>
             
             <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
-              Personagens Vivos para
-              <span className="block text-gradient-magic">Festas Infantis em Porto Alegre</span>
+              Estelar Personagens & Produções
+              <span className="block text-gradient-magic">Festas Infantis em Porto Alegre e região metropolitana</span>
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
