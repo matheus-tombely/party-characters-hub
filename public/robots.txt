@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.estelarpersonagens.com/sitemap.xml
+Sitemap: https://www.estelarpersonagens.com.br/sitemap.xml
