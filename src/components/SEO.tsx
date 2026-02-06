@@ -9,7 +9,7 @@ interface SEOProps {
   schema?: object;
 }
 
-const defaultTitle = "Personagens Vivos Porto Alegre | Princesas e Heróis para Festas Infantis";
+const defaultTitle ="Estelar Personagens";
 const defaultDescription = "Transforme a festa do seu filho em um conto de fadas! Personagens vivos para festas infantis em Porto Alegre e Região Metropolitana. Princesas, heróis e animação mágica.";
 const defaultImage = "/og-image.jpg";
 const siteUrl = import.meta.env.VITE_SITE_URL || window.location.origin;
