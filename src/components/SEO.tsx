@@ -12,7 +12,7 @@ interface SEOProps {
 const defaultTitle = "Personagens Vivos Porto Alegre | Princesas e Heróis para Festas Infantis";
 const defaultDescription = "Transforme a festa do seu filho em um conto de fadas! Personagens vivos para festas infantis em Porto Alegre e Região Metropolitana. Princesas, heróis e animação mágica.";
 const defaultImage = "/og-image.jpg";
-const siteUrl = window.location.origin;
+const siteUrl = import.meta.env.VITE_SITE_URL || window.location.origin;
 
 export function SEO({ 
   title = defaultTitle,
