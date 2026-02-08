@@ -41,16 +41,21 @@ export default function Home() {
               <Sparkles className="h-4 w-4" />
               <span className="text-sm font-medium">Magia e encanto para sua festa!</span>
             </div>
-            
-            <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
-              Estelar Personagens & Produções
-              <span className="block text-gradient-magic">Festas Infantis em Porto Alegre e região metropolitana</span>
-            </h1>
+                      
+            <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-gradient-magic mb-6 leading-snug pb-2">
+  Estelar Personagens & Produções
+</h1>
+
+<h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-black leading-snug">
+  Festas Infantis em Porto Alegre e Região Metropolitana
+</h2>
+
+
+
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
               Transforme a sua festa em um verdadeiro conto de fadas! 
-              Princesas, heróis e personagens mágicos e recreação para eventos inesquecíveis 
-              em Porto Alegre e Região Metropolitana.
+              Princesas, heróis, personagens mágicos e recreação para eventos inesquecíveis.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -210,7 +215,7 @@ export default function Home() {
               </h2>
               <p className="text-muted-foreground max-w-2xl mx-auto">
                 Veja os depoimentos de famílias que realizaram festas mágicas 
-                com nossos personagens em Porto Alegre e região.
+                com nossos personagens.
               </p>
             </div>
 
