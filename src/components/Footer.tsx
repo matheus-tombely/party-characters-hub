@@ -80,7 +80,13 @@ export function Footer() {
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
             Feito com <Heart className="h-4 w-4 text-primary fill-primary" /> para encantar
           </p>
-          <p className="text-xs text-muted-foreground mt-2">
+          <p className="text-xs text-muted-foreground mt-2"> 
+            <Link
+  to="/admin"
+  className="text-xs opacity-40 hover:opacity-100 transition"
+>
+  Admin
+</Link>
             © {new Date().getFullYear()} Estelar Personagens. Todos os direitos reservados.
           </p>
         </div>
